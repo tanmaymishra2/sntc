@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SnTC</string>
     <string name="title_activity_splash_screen">SnTC</string>
+    <string name="msg_token_fmt">Message Id %1$s</string>
 </resources>
